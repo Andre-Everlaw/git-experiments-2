@@ -1,1 +1,1 @@
-this is the contents of file 2
+other stuff after staging
